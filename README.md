@@ -106,7 +106,7 @@ My current focus is on **Data Engineering, Business Intelligence, Cloud Data Pla
 ### Stellantis — Data/BI Intern
 
 **Africa Technical Center | Casablanca, Morocco**  
-*2026*
+*June – September 2026 · 3 months*
 
 Worked on data and BI solutions supporting automotive engineering and supplier-related processes.
 
@@ -119,7 +119,7 @@ Worked on data and BI solutions supporting automotive engineering and supplier-r
 
 ### Veolia / Amendis Maroc — Data Science Intern
 
-*2025*
+*June – September 2025 · 3 months*
 
 Worked on a machine learning project focused on detecting potential water and electricity fraud.
 
