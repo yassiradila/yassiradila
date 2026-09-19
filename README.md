@@ -1,4 +1,4 @@
-# Hi, I'm Yassir Attila 👋
+# Hi, I'm Yassir Adila 👋
 
 ### Data/AI Engineering Student | Building data platforms, analytics solutions & AI applications
 
